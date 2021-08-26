@@ -7,7 +7,7 @@ function App() {
 
   return (
     <main className='container'>
-      <h1>Questions And Answers About Login</h1>
+      <h1>Questions and answers about Login</h1>
       <div className='list'>
         {
           questions.map( q => 
