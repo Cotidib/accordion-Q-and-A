@@ -6,11 +6,10 @@ This is my version of the Accordion project in ['Code 15 React Projects' course 
 ### Overview and learnings
 Accordion Q&A is a simple Questions and Answers display.
 
-The main React functionality I learned is conditional rendering and styling. I made my own setup, styling and added an extra feature to the original idea of the project.
+The main React functionality I learned is conditional rendering and styling. I made my own setup, styling and added an extra animation feature to the original idea of the project.
 
 ### Live Site
-
-
+https://constanzas-accordion-q-and-a.netlify.app
 
 ### Resources
 
