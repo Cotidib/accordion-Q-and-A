@@ -1,9 +1,9 @@
 import data from './data';
 import Question from './Question';
-import React, {useState, useEffect} from "react";
+import React, {useState} from "react";
 
 function App() {
-  const [questions, setQuestions] = useState(data);
+  const [questions] = useState(data);
 
   return (
     <main className='container'>
